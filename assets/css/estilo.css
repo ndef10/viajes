@@ -1,11 +1,8 @@
-/*para que todo el html tenga scroll smooth y no tenga cambios bruscos durante la navegación, compatible con crome, opera y fire fox*/
-/*
-html {
-    scroll-behavior: auto !important;
-  }
-*/
-
 /*GENERALES*/
+
+html {
+    scroll-behavior: smooth;
+}
 
 * {
   margin: 0;
