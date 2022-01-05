@@ -20,7 +20,7 @@ body {
   height: 50px;
   text-align: left;
   padding-right: 3px;
-}
+  }
 
 .formulario {
   padding: 70px;
@@ -51,6 +51,7 @@ h2 {
   text-align: center;
   padding-bottom: 0;
   padding-top: 10px;
+  font-size: 2rem;
 }
 
 .final {
