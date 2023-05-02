@@ -1,6 +1,6 @@
-# ¡Bienvenido al sitio web de viajes Chile!!
+# ¡Bienvenido al sitio web de viajes Chile!
 
-Este es un sitio web diseñado para aquellos que aman viajar 
+Este es un sitio web realizado durante el bootcam
 
 ## Estructura del sitio web
 El sitio web está estructurado de la siguiente manera:
