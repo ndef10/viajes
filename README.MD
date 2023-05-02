@@ -5,10 +5,10 @@ Este es un sitio web diseñado para aquellos que aman viajar
 ## Estructura del sitio web
 El sitio web está estructurado de la siguiente manera:
 
-**-Inicio:** la página de inicio, que presenta un carrusel con fotografias de algunos de los destinos turísticos más populares.
-**-Quienes somos:** Muestra una breve descripción de la empresa.
-**-Dstacados:** Muestra diferentes actividades que se pueden realizar en diferentes destinos turísticos.
-**-Contacto:** Muestra un formulario de contacto para que los usuarios puedan enviar comentarios o preguntas sobre el sitio web.
+- **Inicio:** la página de inicio, que presenta un carrusel con fotografias de algunos de los destinos turísticos más populares.
+- **Quienes somos:** Muestra una breve descripción de la empresa.
+- **Dstacados:** Muestra diferentes actividades que se pueden realizar en diferentes destinos turísticos.
+- **Contacto:** Muestra un formulario de contacto para que los usuarios puedan enviar comentarios o preguntas sobre el sitio web.
 
 ## Tecnologías utilizadas
 Este sitio web está construido con HTML, CSS, Bootstrap
